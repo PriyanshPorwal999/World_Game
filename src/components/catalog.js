@@ -4,7 +4,7 @@ const catalog = [
       name: "Building 🏢",
       price: 200,
       // img: "/data/Photos/176.jpg",
-      img: "/src/data/Photos/building.gif"
+      img: "/public/data/Photos/building.gif"
 
 
     },
@@ -13,14 +13,14 @@ const catalog = [
       name: "Bridge 🌉",
       price: 300,
       // img: "/data/Photos/176.jpg",
-      img: "/src/data/Photos/bridge.gif"
+      img: "/public/data/Photos/bridge.gif"
 
     },
     {
       id: 3,
       name: "Park 🌳",
       price: 150,
-      img: "/src/data/Photos/park.gif"
+      img: "/public/data/Photos/park.gif"
       
     },
     {
@@ -28,14 +28,14 @@ const catalog = [
       name: "Statue 🗿",
       price: 250,
       // img: "/data/Photos/176.jpg",
-      img: "/src/data/Photos/statue-of-liberty.gif"
+      img: "/public/data/Photos/statue-of-liberty.gif"
     },
     {
       id: 5,
       name: "Road 🎡",
       price: 400,
       // img: "/data/Photos/176.jpg",
-      img: "/src/data/Photos/road-marking.gif"
+      img: "/public/data/Photos/road-marking.gif"
 
     },
   ];
